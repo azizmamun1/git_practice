@@ -10,3 +10,5 @@ for i in range(1, 11):
 print("We have to do something")
 x = a*a
 print("this is a new variable", x)
+
+
